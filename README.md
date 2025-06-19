@@ -1,4 +1,3 @@
-README
 ├── about.php                # Halaman tentang
 ├── add_article.php         # Menambahkan artikel baru
 ├── article.php             # Menampilkan artikel tunggal
