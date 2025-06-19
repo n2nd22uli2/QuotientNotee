@@ -1,3 +1,4 @@
+README
 ├── about.php                # Halaman tentang
 ├── add_article.php         # Menambahkan artikel baru
 ├── article.php             # Menampilkan artikel tunggal
@@ -16,6 +17,7 @@
 ├── my_articles.php         # Artikel milik pengguna
 ├── profile.php             # Profil pengguna
 ├── register.php            # Form pendaftaran pengguna
+
 
 **PENJELASAN: **
 
